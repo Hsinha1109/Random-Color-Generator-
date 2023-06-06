@@ -34,7 +34,8 @@ body{
 	font-size: 25px;
 	height: 50%;
 	border-radius: 15px ;
-	width: 100%;
+	width: 90%;
+	cursor:pointer;
 }
 @media  screen and (max-width: 767px) {
   .container {
